@@ -1,5 +1,5 @@
 const el = document.querySelector(".utc");
-
+ 
 el.innerText = "Current Date: " + Number( new Date() )
 
 const day = document.querySelector(".day");
