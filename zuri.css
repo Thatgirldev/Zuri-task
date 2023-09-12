@@ -1,0 +1,22 @@
+body {
+    background-color: DarkGrey;
+}
+
+.round {
+    width: 100px;
+    height: 20vh;
+    clip-path: circle();
+}
+
+.text {
+    font-family: monospace;
+}
+
+.text2 {
+    font-family: courier;
+    font-size: 14px;
+}
+
+.text3 {
+    font-family: Courier New;
+}
